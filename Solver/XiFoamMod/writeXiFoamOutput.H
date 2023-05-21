@@ -1,0 +1,1 @@
+radiusFlame << "Time = " << runTime.timeName() << "\tRadiusMinRho = "  << radiusMinRho << "\tMin(rho) = " << min(rho).value() << endl; 

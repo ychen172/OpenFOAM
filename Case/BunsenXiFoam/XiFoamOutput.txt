@@ -1,0 +1,1 @@
+Time = 0.195565	RadiusMinRho = 0.0775247	Min(rho) = 0.405787

@@ -1,0 +1,1 @@
+OFstream radiusFlame("XiFoamOutput.txt");

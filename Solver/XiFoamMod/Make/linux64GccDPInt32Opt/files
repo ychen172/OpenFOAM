@@ -1,0 +1,3 @@
+SOURCE += XiFoamMod.C
+
+EXE = $(FOAM_USER_APPBIN)/XiFoamMod
